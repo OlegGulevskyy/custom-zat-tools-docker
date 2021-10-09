@@ -1,0 +1,6 @@
+# action.yml
+name: 'Zat Tools with Npm commands'
+description: 'Use this Docker repo to run build and deploy for zat tools'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
